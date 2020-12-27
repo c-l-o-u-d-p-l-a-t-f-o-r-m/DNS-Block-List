@@ -1,3 +1,10 @@
+#Windows
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 data.microsoft.com
+0.0.0.0 ctldl.windowsupdate.com
+#Whatever
+0.0.0.0 sentry.io
 0.0.0.0 shifen.com
 0.0.0.0 anyclip.com
 0.0.0.0 webpush.pan.baidu.com
@@ -50,6 +57,4 @@
 0.0.0.0 docstransfer.com
 0.0.0.0 cpro.baidu.com
 0.0.0.0 coolaf.com
-0.0.0.0 settings-win.data.microsoft.com
-0.0.0.0 v10.events.data.microsoft.com
-0.0.0.0 data.microsoft.com
+
