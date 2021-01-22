@@ -8,6 +8,14 @@
 #Apple
 #Apple ocsp
 0.0.0.0 ocsp.apple.com
+0.0.0.0 ocsp-lb.apple.com.akadns.net
+0.0.0.0 ocsp-cn-lb.apple.com.akadns.net
+0.0.0.0 ocsp.apple.com.download.ks-cdn.com
+0.0.0.0 k128-mzstatic.gslb.ksyuncdn.com
+0.0.0.0 ocsp.apple.com.cdn20.com
+0.0.0.0 ocsp.g.aaplimg.com
+0.0.0.0 ocsp.apple.com
+0.0.0.0 ocsp.digicert.com
 
 #Whatever
 0.0.0.0 sentry.io
