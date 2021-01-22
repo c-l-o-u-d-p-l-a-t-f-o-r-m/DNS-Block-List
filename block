@@ -1,8 +1,14 @@
 #Windows
+#Mainly about windows updates
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 data.microsoft.com
 0.0.0.0 ctldl.windowsupdate.com
+
+#Apple
+#Apple ocsp
+0.0.0.0 ocsp.apple.com
+
 #Whatever
 0.0.0.0 sentry.io
 0.0.0.0 shifen.com
